@@ -1,4 +1,5 @@
-# nc2npy_j3
+# nc2npy_j3  
+convert J-OFURO3 netCDF to npy binary Edit
 -----------------------------------------------------------------------  
 *sample01: read netCDF and convert it to npy binary, for monthly        
 *sample02: read npy binary by Fortran, for monthly  
